@@ -3,6 +3,8 @@
 基于分割获取浅层车道线信息及检测的方法获取路面标识信息。
 本代码只包括预测及结果可视化部分，训练代码由于比较复杂，所以没有放进来。
 # 效果图
+![test](https://github.com/mayberpf/cv_lane/blob/main/img/189.jpg)
+![res](https://github.com/mayberpf/cv_lane/blob/main/img/test_1.png)
 @import "test_1.png"
 @import "189.jpg"
 
